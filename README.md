@@ -7,6 +7,5 @@
 🌏 Hangzhou.CHINA
 
 ### 🛠 Tech Stack
-| Category | Tools & Technologies |
-| **Backend** | Java,  Python, Docker |
+ Java,  Python, Docker |
 
