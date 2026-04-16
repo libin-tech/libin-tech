@@ -6,6 +6,10 @@
 
 🌏 Hangzhou.CHINA
 
+早日实现中华民族伟大复兴！
+
+Achieve the great rejuvenation of the Chinese nation as soon as possible!
+
 ### 🛠 Tech Stack
- Java,  Python, Docker |
+ Java,  Python, Docker 
 
